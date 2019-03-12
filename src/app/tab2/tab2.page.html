@@ -6,4 +6,14 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content></ion-content>
+
+
+<ion-content>
+  
+  <ion-input #nombreCiudad placeholder="Nombre"></ion-input>
+  <ion-input #codPosCiudad placeholder="Codigo Postal" type="number"></ion-input>
+  <ion-input #habitantesCiudad placeholder="Habitantes"></ion-input>
+  <ion-input #idiomaCiudad placeholder="Idioma"></ion-input>
+
+  <ion-button (click)="alta(nombreCiudad.value, codPosCiudad.value, habitantesCiudad.value, idiomaCiudad.value)">Crear</ion-button>
+</ion-content>

@@ -1,0 +1,46 @@
+{
+  "ciudades": [
+    {
+      "id": 1,
+      "nombre": "Jaén",
+      "codPos": 23300,
+      "habitantes": "100K",
+      "idioma": "catalán"
+    },
+    {
+      "id": 2,
+      "nombre": "Madriz",
+      "codPos": 29300,
+      "habitantes": "100K",
+      "idioma": "español"
+    },
+    {
+      "nombre": "asdasdasd",
+      "codPos": "3123123",
+      "habitantes": "asdasda",
+      "idioma": "asdasda1",
+      "id": 6
+    },
+    {
+      "nombre": "asdasdasd",
+      "codPos": "3123123",
+      "habitantes": "asdasda",
+      "idioma": "asdasda1",
+      "id": 7
+    },
+    {
+      "nombre": "Barcelona",
+      "codPos": "90000",
+      "habitantes": "90000k",
+      "idioma": "Catalán",
+      "id": 11
+    },
+    {
+      "nombre": "asd",
+      "codPos": "32323",
+      "habitantes": "sda",
+      "idioma": "asdaa",
+      "id": 12
+    }
+  ]
+}
